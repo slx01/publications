@@ -1,0 +1,2 @@
+# publications
+- [Journals](journal.md)
